@@ -41,7 +41,7 @@ export const sidebarLinks = [
 
 export const LOGIN = {
   username: "007natalie.lee@gmail.com",
-  password: "natalie12!",
+  password: "Natalie12!",
 };
 
 export const USER = {
