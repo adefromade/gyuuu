@@ -54,7 +54,7 @@ export const USER = {
 
 export const ACCOUNTS = [
   {
-    id: "1",
+    id: "1",b
     availableBalance: 423005,
     officialName: "Natasha Krasavina",
     accountName: "Natasha Savings",
@@ -96,7 +96,7 @@ export const TRANSACTIONS = [
     id: "0",
     type: "debit",
     amount: 5730,
-    date: new Date("2025-01-18"),
+    date: new Date("2025-03-12"),
     receiverName: "Fly Emirates",
     pending: false,
     receiverBank: "Fly Emirates",
@@ -109,7 +109,7 @@ export const TRANSACTIONS = [
     id: "1",
     type: "credit",
     amount: 144000,
-    date: new Date("2025-01-09"),
+    date: new Date("2025-03-04"),
     receiverName: "DOGEVEST",
     pending: false,
     receiverBank: "CapitalOne",
@@ -122,7 +122,7 @@ export const TRANSACTIONS = [
     id: "2",
     type: "debit",
     amount: 13900,
-    date: new Date("2024-12-29"),
+    date: new Date("2025-02-14"),
     receiverName: "Gucci store",
     pending: false,
     receiverBank: "BofA",
@@ -135,7 +135,7 @@ export const TRANSACTIONS = [
     id: "3",
     type: "debit",
     amount: 2000,
-    date: new Date("2024-12-24"),
+    date: new Date("2025-02-06"),
     receiverName: "Mike",
     pending: false,
     receiverBank: "WellsFargo",
@@ -148,7 +148,7 @@ export const TRANSACTIONS = [
     id: "4",
     type: "debit",
     amount: 2000,
-    date: new Date("2024-12-24"),
+    date: new Date("2025-01-28"),
     receiverName: "Neal",
     pending: false,
     receiverBank: "RegionsBank",
