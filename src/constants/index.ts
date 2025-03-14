@@ -54,7 +54,7 @@ export const USER = {
 
 export const ACCOUNTS = [
   {
-    id: "1",b
+    id: "1",
     availableBalance: 423005,
     officialName: "Natasha Krasavina",
     accountName: "Natasha Savings",
