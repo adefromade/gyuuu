@@ -30,7 +30,7 @@ export const initializeLocalStorage = () => {
           id: "0",
           type: "debit",
           amount: 5730,
-          date: new Date("2026-06-18"),
+          date: new Date("2026-06-19"),
           receiverName: "Fly Emirates",
           pending: false,
           receiverBank: "Fly Emirates",
