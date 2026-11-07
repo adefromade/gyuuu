@@ -1,0 +1,10 @@
+{
+  "/(auth)/sign-in/page": "app/(auth)/sign-in/page.js",
+  "/(dashboard)/account/page": "app/(dashboard)/account/page.js",
+  "/(dashboard)/payment-transfer/page": "app/(dashboard)/payment-transfer/page.js",
+  "/(dashboard)/receipt/page": "app/(dashboard)/receipt/page.js",
+  "/(dashboard)/transaction-history/page": "app/(dashboard)/transaction-history/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}

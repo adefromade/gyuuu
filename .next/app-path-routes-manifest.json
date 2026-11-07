@@ -1,0 +1,10 @@
+{
+  "/(auth)/sign-in/page": "/sign-in",
+  "/(dashboard)/account/page": "/account",
+  "/(dashboard)/payment-transfer/page": "/payment-transfer",
+  "/(dashboard)/receipt/page": "/receipt",
+  "/(dashboard)/transaction-history/page": "/transaction-history",
+  "/(root)/page": "/",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found"
+}

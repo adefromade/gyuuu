@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/rahdeg/Desktop/Social/hun/gyuuu/src/app/(root)/page.tsx"],"sourcesContent":["export default function HtmlIframePage() {\n    return (\n        <div>\n\n            <iframe\n                src=\"/hom.html\"\n                style={{ width: '100%', height: '100vh', border: 'none' }}\n\n            ></iframe>\n        </div>\n    );\n}"],"names":["HtmlIframePage","src","style","width","height","border"],"mappings":";;;;;;AAAe,SAASA;IACpB,qBACI,8OAAC;kBAEG,cAAA,8OAAC;YACGC,KAAI;YACJC,OAAO;gBAAEC,OAAO;gBAAQC,QAAQ;gBAASC,QAAQ;YAAO;;;;;;;;;;;AAKxE"}}]
+}
