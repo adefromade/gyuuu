@@ -40,15 +40,15 @@ export const sidebarLinks = [
 ];
 
 export const LOGIN = {
-  username: "007natalie.lee@gmail.com",
-  password: "Natalie12!",
+  username: "sashajoymann1@gmail.com",
+  password: "Sashasasha12!",
 };
 
 export const USER = {
   id: "1",
-  firstName: "Natasha",
-  lastName: "Krasavina",
-  email: "007natalie.lee@gmail.com",
+  firstName: "Sasha",
+  lastName: "Joyman",
+  email: "sashajoymann1@gmail.com",
   city: "Fort Lauderdale ",
 };
 
@@ -56,13 +56,13 @@ export const ACCOUNTS = [
   {
     id: "1",
     availableBalance: 423005,
-    officialName: "Natasha Krasavina",
-    accountName: "Natasha Savings",
+    officialName: "Sasha Joyman",
+    accountName: "Sasha Savings",
   },
   {
     id: "2",
     availableBalance: 53000,
-    officialName: "Natasha Krasavina",
+    officialName: "Sasha Joyman",
     accountName: "Adv Checking",
   },
 ];
@@ -102,7 +102,7 @@ export const TRANSACTIONS = [
     receiverBank: "Fly Emirates",
     note: "Tickets",
     transactionId: "9879898476548765hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 423005,
   },
   {
@@ -115,7 +115,7 @@ export const TRANSACTIONS = [
     receiverBank: "CapitalOne",
     note: "ROI",
     transactionId: "9879898438238765hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 196830,
   },
   {
@@ -128,7 +128,7 @@ export const TRANSACTIONS = [
     receiverBank: "BofA",
     note: "shopping",
     transactionId: "987989843823822hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 52830,
   },
   {
@@ -141,7 +141,7 @@ export const TRANSACTIONS = [
     receiverBank: "WellsFargo",
     Note: "Gift",
     transactionId: "987699879823822hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 66780,
   },
   {
@@ -154,7 +154,7 @@ export const TRANSACTIONS = [
     receiverBank: "RegionsBank",
     note: "Paid",
     transactionId: "98769889823822hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 68830,
   },
   {
@@ -167,7 +167,7 @@ export const TRANSACTIONS = [
     receiverBank: "FirstNational",
     note: "Merry Xmas",
     transactionId: "87889889823822hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 70850,
   },
   {
@@ -180,7 +180,7 @@ export const TRANSACTIONS = [
     receiverBank: "Wellsfargo",
     note: "tickets",
     transactionId: "8879889823822hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 72880,
   },
   {
@@ -193,7 +193,7 @@ export const TRANSACTIONS = [
     receiverBank: "BofA",
     note: "Shopping",
     transactionId: "8879887353828jush",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 78730,
   },
   {
@@ -206,7 +206,7 @@ export const TRANSACTIONS = [
     receiverBank: "FirstNational",
     note: "November",
     transactionId: "887988735908722hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 100000,
   },
   {
@@ -219,7 +219,7 @@ export const TRANSACTIONS = [
     receiverBank: "RegionsBank",
     note: "Renovation",
     transactionId: "8879887623822hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 109110,
   },
   {
@@ -232,14 +232,14 @@ export const TRANSACTIONS = [
     receiverBank: "RegionsBank",
     note: "rent",
     transactionId: "8879898273822hsh",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     availableBalance: 151450,
   },
   {
     id: "11",
     type: "debit",
     amount: 38350,
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     date: new Date("2024-10-27"),
     receiverName: "ChanelStore",
     pending: false,
@@ -251,7 +251,7 @@ export const TRANSACTIONS = [
   {
     id: "12",
     type: "debit",
-    accountName: "Natasha Savings",
+    accountName: "Sasha Savings",
     amount: 18030,
     date: new Date("2024-10-14"),
     receiverName: "thomas",
